@@ -84,6 +84,20 @@ I'm a **Computer Science student** at **Indian Institute of Information Technolo
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&langs_count=7&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-Patel-web&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryan-Patel-web&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
 
 ### 🏆 Achievements & Certifications
 
