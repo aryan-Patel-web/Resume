@@ -86,7 +86,6 @@ I'm a **Computer Science student** at **Indian Institute of Information Technolo
 
 ### 📊 GitHub Analytics
 
-
 <div align="center">
   
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
@@ -97,9 +96,13 @@ I'm a **Computer Science student** at **Indian Institute of Information Technolo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryan-Patel-web&label=Profile%20Views&color=0e75b6&style=flat)
 
-</div>
+**📈 Real GitHub Stats:**
+- **460 contributions** in the last year
+- **80 repositories** of AI/ML and web development projects
+- **13 stars** from the developer community
+- **Primary languages:** Python, JavaScript, Jupyter Notebook
 
----
+</div>
 
 
 ### 🏆 Achievements & Certifications
