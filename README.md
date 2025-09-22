@@ -2,11 +2,23 @@
 
 ## 🚀 AI/ML Engineer | Full-Stack Developer | Innovation Enthusiast
 
+### 📄 Resume
+
+<div align="center">
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/aryan-Patel-web/resume/blob/main/NEW_Resume_GEN_AI.pdf)
+
+**[📥 Download Full Resume PDF](https://github.com/aryan-Patel-web/resume/raw/main/NEW_Resume_GEN_AI.pdf)**
+
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-patel-97396524b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arya230101047@iiitmanipur.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/aryan-Patel-web)
 
 ---
+
+
 
 ### 🎓 About Me
 
