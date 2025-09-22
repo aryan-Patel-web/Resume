@@ -86,6 +86,7 @@ I'm a **Computer Science student** at **Indian Institute of Information Technolo
 
 ### 📊 GitHub Analytics
 
+
 <div align="center">
   
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
@@ -97,6 +98,8 @@ I'm a **Computer Science student** at **Indian Institute of Information Technolo
 ![Profile Views](https://komarev.com/ghpvc/?username=aryan-Patel-web&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
+
+---
 
 
 ### 🏆 Achievements & Certifications
@@ -110,6 +113,10 @@ I'm a **Computer Science student** at **Indian Institute of Information Technolo
 - ⚡ **THDC India's Open Innovation Hackathon 2025** - Energy Solutions Participant
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-patel-97396524b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arya230101047@iiitmanipur.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan-Patel-web)
 
 ### 📈 Current Focus Areas
 
